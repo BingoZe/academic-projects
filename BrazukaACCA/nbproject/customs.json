@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "text-align:\"justify\"": {
+            "context": "p"
+        },
+        "justify": {
+            "context": "p"
+        }
+    }
+}
